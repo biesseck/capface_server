@@ -33,5 +33,5 @@ Servidor do app Android para chamada em sala de aula usando reconhecimento facia
 
 * Leuri Rabelo Zanetti (_Curso Superior de Tecnologia em Redes de Computadores - IFMT campus Pontes e Lacerda_)
 
-![team_image1](https://github.com/biesseck/capface_android_app/blob/main/doc/equipe1.jpg?raw=true)
-![team_image2](https://github.com/biesseck/capface_android_app/blob/main/doc/equipe2.jpg?raw=true)
+![team_image1](https://github.com/biesseck/capface_server/blob/main/doc/equipe1.jpg?raw=true)
+![team_image2](https://github.com/biesseck/capface_server/blob/main/doc/equipe2.jpg?raw=true)
