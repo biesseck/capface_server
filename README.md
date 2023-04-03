@@ -22,6 +22,8 @@ Servidor do app Android para chamada em sala de aula usando reconhecimento facia
 
 * [Face Recognition Module](https://github.com/biesseck/capface_face_recognition_module)
 
+* [Selenium WebDriver (API Java)](https://www.selenium.dev/downloads/)
+
 # Equipe
 * Bernardo Janko Gonçalves Biesseck (_Professor orientador - IFMT campus Pontes e Lacerda_)
 
